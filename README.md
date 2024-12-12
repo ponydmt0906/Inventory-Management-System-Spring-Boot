@@ -1,7 +1,10 @@
 This version is written in Vietnamese, if you don't understand, use Google Translate
 # Inventory-Management-System-Spring-Boot
+
 Các tổ chức, công ti cần sử dụng hệ thống quản lý để phân bố hóa nhiệm vụ của họ. Chúng có thể đơn giản hoặc phức tạp tùy thuộc vào nhu cầu của tổ chức. Hệ thống quản lý hàng tồn kho (hoặc hệ thống hàng tồn kho) là quy trình mà bạn theo dõi hàng hóa của mình trong toàn bộ chuỗi cung ứng, từ mua hàng đến sản xuất đến bán hàng cuối cùng. Nó chi phối cách bạn tiếp cận quản lý hàng tồn kho cho doanh nghiệp của mình.
+
 Hệ thống quản lý hàng tồn kho dựa trên web sẽ cố gắng tự động hóa và thay thế cách tiếp cận dựa trên giấy truyền thống để quản lý và theo dõi hàng tồn kho đang được sử dụng. Thay cho công việc dựa trên giấy tờ mất rất nhiều thời gian, hệ thống sẽ được tạo cho các hoạt động về cung cầu hàng hóa, giao dịch và sẽ đóng vai trò như một cơ sở dữ liệu trung tâm, nơi việc tìm kiếm một bản ghi duy nhất trong thời gian ngắn. Hệ thống quản lý không cần giấy tờ này sẽ tăng hiệu quả, giảm độ phức tạp và mang lại sự linh hoạt cho tổ chức.
+
 # Entity Relationship Diagram
 ![image](https://github.com/user-attachments/assets/59718a5f-7ce2-48d1-a9af-732e1f4c36d0)
 
