@@ -4,6 +4,7 @@ Các tổ chức, công ti cần sử dụng hệ thống quản lý để phân
 Hệ thống quản lý hàng tồn kho dựa trên web sẽ cố gắng tự động hóa và thay thế cách tiếp cận dựa trên giấy truyền thống để quản lý và theo dõi hàng tồn kho đang được sử dụng. Thay cho công việc dựa trên giấy tờ mất rất nhiều thời gian, hệ thống sẽ được tạo cho các hoạt động về cung cầu hàng hóa, giao dịch và sẽ đóng vai trò như một cơ sở dữ liệu trung tâm, nơi việc tìm kiếm một bản ghi duy nhất trong thời gian ngắn. Hệ thống quản lý không cần giấy tờ này sẽ tăng hiệu quả, giảm độ phức tạp và mang lại sự linh hoạt cho tổ chức.
 # Entity Relationship Diagram
 ![image](https://github.com/user-attachments/assets/59718a5f-7ce2-48d1-a9af-732e1f4c36d0)
+
 Dựa vào ERD của dự án, các chức năng chính mà hệ thống quản lý kho hàng bao gồm:
 1. Quản lý thông tin sản phẩm
 Chức năng:
