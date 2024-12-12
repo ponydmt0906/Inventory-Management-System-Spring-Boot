@@ -77,9 +77,9 @@ Phân quyền truy cập hệ thống theo vai trò (admin, nhân viên, khách 
 Liên quan đến bảng:
 inventory_manager, manager_type: Quản lý quyền hạn của nhân viên.
 # Tech Stack
-Spring Boot
-Thymeleaf
-MySQL
-Hibernate
+- Spring Boot
+- Thymeleaf
+- MySQL
+- Hibernate
 # Project Status: In-Progress
 Thiếu mục quản lí nhân viên và phân quyền
